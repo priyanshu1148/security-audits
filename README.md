@@ -73,7 +73,7 @@ I conduct professional security audits for FastAPI applications and LLM systems.
 ## 📞 Contact & Engagement
 
 **Name**: Priyanshu 
-**Email**: priyanshu.automation.lab@gmail.
+**Email**: priyanshu.automation.lab@gmail.com
 **GitHub**: [github.com/priyanshu1148](https://github.com/priyanshu1148)  
 **LinkedIn**: [www.linkedin.com/in/priyanshu-ai-264877426]  
 
@@ -125,7 +125,7 @@ Each audit includes assessment of:
 
 **Ready to secure your application?**
 
-📧 Email: priyanshu1148@gmail.com  
+📧 Email: priyanshu.automation.lab@gmail.com
 🔗 GitHub: github.com/priyanshu1148  
 
 *Professional Security Audits Starting ₹3,000*
